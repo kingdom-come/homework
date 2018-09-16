@@ -1,7 +1,7 @@
 # Midterm Exam
 
 | Subject | Status        | 
-|---------|---------------|
+|:-------:|:-------------:|
 |Biology  |               |
 |English  | Probably Done |
 |Chemistry| Done |
