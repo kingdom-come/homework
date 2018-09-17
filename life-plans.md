@@ -1,5 +1,5 @@
 Universities to apply to:
 
-MIT\\
-Harvard\\
-Stanford\\
+MIT  
+Harvard  
+Stanford  
